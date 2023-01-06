@@ -1,0 +1,11 @@
+org/example/Search_Mapper.class
+org/example/TFIDF_Mapper.class
+org/example/TFIDF_Driver.class
+org/example/TF_Driver.class
+org/example/Search_Driver.class
+org/example/TFIDF_Combiner.class
+org/example/TF_Mapper.class
+org/example/TFIDF_Reducer.class
+org/example/TF_Reducer.class
+org/example/TF_Combiner.class
+org/example/Search_Reducer.class
